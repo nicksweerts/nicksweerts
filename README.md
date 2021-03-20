@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nicksweerts
+- 👀 I’m interested in Machine Learning
+- 🌱 I’m currently learning Computer Science at the University of Waterloo
+- 💞️ I’m looking to collaborate on anything
+- 📫 How to reach me nfsweerts@gmail.com
