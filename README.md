@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @nicksweerts
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Computer Science at the University of Waterloo
-- 💞️ I’m looking to collaborate on anything
+- 👀 I’m interested in Frontend, Backend, AI, and Data Analysis
+- 🌱 I’m currently studying Computer Science at the University of Waterloo
 - 📫 How to reach me nfsweerts@gmail.com
